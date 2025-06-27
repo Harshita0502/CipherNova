@@ -92,6 +92,26 @@ cipherNova/
 └── requirements.txt     # Dependencies
 ```
 ### POC:
+#### File Encryption:
+
+![Image Alt](https://github.com/Harshita0502/CipherNova/blob/bc67471a17eb9759ed631ce06080620bd364238f/Screenshot/Screenshot%202025-06-27%20021114.png)
+
+#### Secure Decryption:
+
+![Image Alt](https://github.com/Harshita0502/CipherNova/blob/bc67471a17eb9759ed631ce06080620bd364238f/Screenshot/Screenshot%202025-06-27%20021157.png)
+
+#### Message Encryption:
+
+![Image Alt](https://github.com/Harshita0502/CipherNova/blob/bc67471a17eb9759ed631ce06080620bd364238f/Screenshot/Screenshot%202025-06-27%20021157.png)
+
+#### Log Storage:
+
+![Image Alt](https://github.com/Harshita0502/CipherNova/blob/bc67471a17eb9759ed631ce06080620bd364238f/Screenshot/Screenshot%202025-06-27%20021358.png)
+
+#### Key Storage:
+
+![Image Alt](https://github.com/Harshita0502/CipherNova/blob/bc67471a17eb9759ed631ce06080620bd364238f/Screenshot/Screenshot%202025-06-27%20021428.png)
+
 
 ### ⚒ Requirements
 Basic dependencies (Python 3.9+ recommended):
